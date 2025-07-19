@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import AddTask from "./componentes/AddTasks";
-import Tasks from "./Componentes/Tasks";
+import Tasks from "./componentes/Tasks";
 import { v4 } from "uuid";
 
 function App() {
